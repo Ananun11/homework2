@@ -11,7 +11,7 @@ class Book {
 }
 
 void main() {
-  Book book = Book("Harry Potter", "J.K. Rowling", 300);
+  Book book = Book("Kacin axper", "Hovhannes T.", 10);
 
   print(book.getInfo());
 }
